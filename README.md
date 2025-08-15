@@ -17,6 +17,6 @@ Our platform helps organizations in law enforcement, education, and the private 
 
 - Detect Defects and Assess Asset Integrity: Identify potential threats and maintenance issues in drone footage.
 
-## We ready. Are you?
+## We are ready. Are you?
 
 At BlueTitan, we are committed to building powerful, intuitive tools that help our users make informed decisions and focus on what matters most.
